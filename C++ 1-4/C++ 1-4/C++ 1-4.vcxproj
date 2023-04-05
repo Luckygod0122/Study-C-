@@ -128,6 +128,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="C++ 1-4.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="NameAlias.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="헤더.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
